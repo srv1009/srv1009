@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Saurav Agarwala, a professional Full Stack Developer with expertise in JAVA,JS, Angular2+, SQL, Java based Frameworks, Stream/Batch Processing and a lot more of things.
-- 👀 I’m interested in Learning anything challenging and new.
--  🌱 I’m currently learning Kafka, Kubernetes, JAVA 8, AWS
+- 👋 Hi, I’m Saurav Agarwala, a professional Full Stack Developer with expertise in JAVA,JS, Angular2+, SQL, Java based Frameworks, Stream/Batch Processing and a lot more  things.
+- 👀 I’m interested in Learning anything challenging and new
 - 💞️ I’m looking to collaborate on any project which needs my expertise. I have several startup ideas as well, do reachout in case you feel you are technically strong and willing to contribute.
 - 📫 How to reach me saurav.agarwala17@gmail.com
 
